@@ -26,7 +26,11 @@ class App extends Component {
             <div className= "tc">
                 <h1 className= "f1">RoboFriends</h1>
                 <SearchBox searchChange= {this.onSearchChange}/>
+<<<<<<< HEAD
                 <Scroll className= "pa2">
+=======
+                <Scroll>
+>>>>>>> 85643a344655b38ec1c35b187d166faea7d7cb15
                     <CardList robots= { filteredRobots } />      
                 </Scroll>
                 
