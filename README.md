@@ -1,2 +1,2 @@
-# Robofriends
-React course from Web Mastery
+# RoboFriends
+RoboFriends App from Zero to Mastery course
