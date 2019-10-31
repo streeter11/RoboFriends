@@ -28,8 +28,7 @@ class App extends Component {
                 <SearchBox searchChange= {this.onSearchChange}/>
                 <Scroll className= "pa2">
                     <CardList robots= { filteredRobots } />      
-                </Scroll>
-                
+                </Scroll> 
             </div> 
         )
     }
